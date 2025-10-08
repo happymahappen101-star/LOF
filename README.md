@@ -1,3 +1,4 @@
+<!DOCKTYPE html>
 <html>
 <head>
 <title></L̴E̴G̴E̴N̴D̴S̴ O̴F̴ F̴R̴E̴E̴N̴E̴T̴</title>
@@ -5,7 +6,7 @@
   </head>
 
   <body>
-  <h1>Title Of My Page</h1>
+  <h1></h1>
   <p>MY WEBSITE</p>
   </body>
   </html>
